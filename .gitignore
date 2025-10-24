@@ -1,0 +1,24 @@
+# Logs
+todo-ui/logs
+todo-ui/*.log
+todo-ui/npm-debug.log*
+todo-ui/yarn-debug.log*
+todo-ui/yarn-error.log*
+todo-ui/pnpm-debug.log*
+todo-ui/lerna-debug.log*
+
+todo-ui/node_modules
+todo-ui/dist
+todo-ui/dist-ssr
+todo-ui/*.local
+
+# Editor directories and files
+todo-ui/.vscode/*
+todo-ui/!.vscode/extensions.json
+todo-ui/.idea
+todo-ui/.DS_Store
+todo-ui/*.suo
+todo-ui/*.ntvs*
+todo-ui/*.njsproj
+todo-ui/*.sln
+todo-ui/*.sw?
