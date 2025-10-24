@@ -4,7 +4,7 @@
 [Rendering Lists](rendering-lists/readme.md) \
 [Pure Components](pure-components/readme.md)
 
-[Todo UI](todo-ui/readme.md)
+[Todo UI](todo-ui/README.md)
 
 ### Questions
 a. The key is meant to help keep track of individual elements in an array. This is especially important for when you want to access an element in an array but it got moved from an array operation such as sorting or slicing.
